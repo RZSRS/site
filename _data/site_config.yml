@@ -150,8 +150,8 @@ languages:
 languages_public: []
 logos:
   - language: ''
-    src: 'https://www.rzs.rs.ba/template_static/images/logo.png'
-    alt: RZS RS
+    src: ''
+    alt: ''
 map_layers:
   - subfolder: ''
     label: ''

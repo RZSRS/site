@@ -1,4 +1,4 @@
-﻿accessible_charts: true
+accessible_charts: true
 accessible_tabs: true
 analytics:
   ga_prod: ''
@@ -148,8 +148,21 @@ languages:
   - en
   - es
 languages_public: []
-logos: []
-map_layers: []
+logos:
+  - language: ''
+    src: 'https://www.rzs.rs.ba/template_static/images/logo.png'
+    alt: RZS RS
+map_layers:
+  - subfolder: ''
+    label: ''
+    min_zoom: 0
+    max_zoom: 0
+    staticBorders: false
+  - subfolder: ''
+    label: ''
+    min_zoom: 0
+    max_zoom: 0
+    staticBorders: false
 map_options:
   minZoom: 5
   maxZoom: 10
